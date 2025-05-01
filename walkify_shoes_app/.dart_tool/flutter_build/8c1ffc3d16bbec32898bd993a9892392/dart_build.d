@@ -1,0 +1,1 @@
+ C:\\Users\\pgoth\\OneDrive\\Desktop\\shoes_app\\.dart_tool\\flutter_build\\8c1ffc3d16bbec32898bd993a9892392\\dart_build_result.json: 

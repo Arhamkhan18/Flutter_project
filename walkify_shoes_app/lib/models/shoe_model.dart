@@ -1,0 +1,20 @@
+// ignore_for_file: prefer_const_constructors
+
+import 'package:flutter/material.dart';
+
+class ShoeModel {
+  String name;
+  String model;
+  double price;
+  int quantity;
+  String imgAddress;
+  Color modelColor;
+  ShoeModel({
+    required this.name,
+    required this.model,
+    required this.price,
+    this.quantity = 1,
+    required this.imgAddress,
+    required this.modelColor,
+  });
+}

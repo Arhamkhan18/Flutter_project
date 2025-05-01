@@ -1,0 +1,127 @@
+{
+   "checksum": "ac41e110dd9b2a9be2ec61a41aed5725",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13344532310704656",
+            "date_last_used": "13384622857290221",
+            "guid": "fd7e8b25-c378-403c-9679-9f569b78bfac",
+            "id": "10",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13337432497396920",
+            "date_last_used": "0",
+            "guid": "116f8b77-fafc-47dd-bc5b-0952961be322",
+            "id": "11",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13360580378846503",
+            "date_last_used": "13384623382477840",
+            "guid": "7a5c9599-905c-4891-8f76-c2b3e12ed01e",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chatgpt.com/?oai-dm=1"
+         }, {
+            "date_added": "13358413770688011",
+            "date_last_used": "0",
+            "guid": "893bf36d-6a94-4f03-967a-d170341b7a75",
+            "id": "13",
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chat.openai.com/"
+         }, {
+            "date_added": "13368295293154808",
+            "date_last_used": "0",
+            "guid": "cdcc657f-255c-4cb5-8684-2ee3acb42c96",
+            "id": "14",
+            "name": "LinkedIn",
+            "type": "url",
+            "url": "https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"
+         }, {
+            "date_added": "13380738996669931",
+            "date_last_used": "0",
+            "guid": "6fbdd67c-f9c6-485b-8666-fe181bf10e74",
+            "id": "15",
+            "name": "DSA Roadmap",
+            "type": "url",
+            "url": "https://whimsical.com/90-days-dsa-2025-UP4rDZYrFNW3Jviop6Q7ej"
+         }, {
+            "date_added": "13383230908827532",
+            "date_last_used": "0",
+            "guid": "4cf93c8a-6fa7-4af3-9562-26b5f6a964d8",
+            "id": "16",
+            "name": "Kodnest 150 - Google Sheets",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/18CjQlTXihGuIr0LFbImDXdxBSGbH4MgQHa6DYX98-0g/edit?gid=0#gid=0"
+         }, {
+            "date_added": "13389862838165722",
+            "date_last_used": "0",
+            "guid": "68367a9a-b474-4ea0-a77a-3d11aec6b144",
+            "id": "8",
+            "name": "Lenovo Support",
+            "type": "url",
+            "url": "https://support.lenovo.com/"
+         }, {
+            "date_added": "13389862838165524",
+            "date_last_used": "0",
+            "guid": "487aecbf-7ca1-4733-bf95-0aa8be929f69",
+            "id": "7",
+            "name": "Lenovo",
+            "type": "url",
+            "url": "https://www.lenovo.com/"
+         }, {
+            "date_added": "13389862838165085",
+            "date_last_used": "0",
+            "guid": "c74236aa-41b7-44c9-93eb-dedb6985e4ed",
+            "id": "6",
+            "name": "McAfee",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html"
+         } ],
+         "date_added": "13389862837950825",
+         "date_last_used": "0",
+         "date_modified": "13389862838165722",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13346674488736988",
+            "date_last_used": "0",
+            "guid": "c3801d8f-4168-4e45-a101-5c6cf230e901",
+            "id": "9",
+            "name": "ALL INDIA SAINIK SCHOOLS ENTRANCE EXAM | AISSEE | India",
+            "type": "url",
+            "url": "https://exams.nta.ac.in/AISSEE"
+         } ],
+         "date_added": "13389862837950828",
+         "date_last_used": "0",
+         "date_modified": "13346674488736988",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13389862837950829",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,164 @@
+{
+   "checksum": "4cdc07198edcdee44eb1949ce1bb2e3d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13344532310704656",
+            "date_last_used": "13384622857290221",
+            "guid": "fd7e8b25-c378-403c-9679-9f569b78bfac",
+            "id": "10",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService",
+            "visit_count": 4
+         }, {
+            "date_added": "13337432497396920",
+            "date_last_used": "0",
+            "guid": "116f8b77-fafc-47dd-bc5b-0952961be322",
+            "id": "11",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13360580378846503",
+            "date_last_used": "13384623382477840",
+            "guid": "7a5c9599-905c-4891-8f76-c2b3e12ed01e",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chatgpt.com/?oai-dm=1",
+            "visit_count": 1
+         }, {
+            "date_added": "13358413770688011",
+            "date_last_used": "0",
+            "guid": "893bf36d-6a94-4f03-967a-d170341b7a75",
+            "id": "13",
+            "name": "ChatGPT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chat.openai.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13368295293154808",
+            "date_last_used": "0",
+            "guid": "cdcc657f-255c-4cb5-8684-2ee3acb42c96",
+            "id": "14",
+            "name": "LinkedIn",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit",
+            "visit_count": 0
+         }, {
+            "date_added": "13380738996669931",
+            "date_last_used": "0",
+            "guid": "6fbdd67c-f9c6-485b-8666-fe181bf10e74",
+            "id": "15",
+            "name": "DSA Roadmap",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://whimsical.com/90-days-dsa-2025-UP4rDZYrFNW3Jviop6Q7ej",
+            "visit_count": 0
+         }, {
+            "date_added": "13383230908827532",
+            "date_last_used": "0",
+            "guid": "4cf93c8a-6fa7-4af3-9562-26b5f6a964d8",
+            "id": "16",
+            "name": "Kodnest 150 - Google Sheets",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/18CjQlTXihGuIr0LFbImDXdxBSGbH4MgQHa6DYX98-0g/edit?gid=0#gid=0",
+            "visit_count": 0
+         }, {
+            "date_added": "13389862838165722",
+            "date_last_used": "0",
+            "guid": "68367a9a-b474-4ea0-a77a-3d11aec6b144",
+            "id": "8",
+            "name": "Lenovo Support",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://support.lenovo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13389862838165524",
+            "date_last_used": "0",
+            "guid": "487aecbf-7ca1-4733-bf95-0aa8be929f69",
+            "id": "7",
+            "name": "Lenovo",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.lenovo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13389862838165085",
+            "date_last_used": "0",
+            "guid": "c74236aa-41b7-44c9-93eb-dedb6985e4ed",
+            "id": "6",
+            "name": "McAfee",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html",
+            "visit_count": 0
+         } ],
+         "date_added": "13389862837950825",
+         "date_last_used": "0",
+         "date_modified": "13389862838165722",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13346674488736988",
+            "date_last_used": "0",
+            "guid": "c3801d8f-4168-4e45-a101-5c6cf230e901",
+            "id": "9",
+            "name": "ALL INDIA SAINIK SCHOOLS ENTRANCE EXAM | AISSEE | India",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://exams.nta.ac.in/AISSEE",
+            "visit_count": 0
+         } ],
+         "date_added": "13389862837950828",
+         "date_last_used": "0",
+         "date_modified": "13346674488736988",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13389862837950829",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCPF0SWGWAQAAKg4QABgBIA4oBjAAOABAABIAKhh4N0tseUk4MmRKOVZ6b3k3enFxdjRnPT1IA6AGDBKtAQgNEqgBChx4bFg3NVFNYkp4VCtYemxiZFNhUDdjeS9WbU09EiQ4OTNiZjM2ZC02YTk0LTRmMDMtOTY3YS1kMTcwMzQxYjdhNzUYACACKAIwg5a4iuYyOP+7lsjSMkD6k7mK5jJKHGloTnAzKzRIWUc2T2FKNWF0eC8wbDJ6ajZ0dz1aHyId7yttK1UreXZzVGMvM1c4N0lwUUVlKzdDYmZ2ND1lRilcY8I+AmAFEq0BCAwSqAEKHGtvdURLVEpaU0I5eUpKczVvK3VqYnI0RlUvOD0SJDdhNWM5NTk5LTkwNWMtNDg5MS04Zjc2LWMyYjNlMTJlZDAxZRgAIAIoAjCBlriK5jI4or29//gxQPmTuYrmMkocczRua00xYmgvWW5BWGtjcHlMbUFhOTJweWFzPVofIh3eMUR5WWtkZ2hvVHQ4LzFRb2RvcEk0ZWkwcjlzPWVGKVxjwj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkM2JhYTQ5NmEtZWFkMi01NGQ1LTk1ODMtYWM1OTcxMmY5MWRiGAAgACgAMIK6mJi9MTiDvJiYvTFAg7yYmL0xShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEq0BCA8SqAEKHGZoRmR0cWRpSU14eDZPQTk3Q1NZYTlRbEwyOD0SJDZmYmRkNjdjLWY5YzYtNDg1Yi04NjY2LWZlMTgxYmYxMGU3NBgAIAIoAjCAlriK5jI4wbuWyNIyQPyTuYrmMkocZDUxTUZDTElQdXM3S2ZOZEdGMWVUZkZsKzZRPVofIh37dlFvQWdTRDlHS1dheGlyYVBQTzZxZk9MdUhnPWUFr+Dtwj4CYAUSrQEICRKoAQocVUtsNGFxcGkvcVFyQlBUUVNhVEZRNkZac3E0PRIkYzM4MDFkOGYtNDE2OC00ZTQ1LWExMDEtNWM2Y2YyMzBlOTAxGAAgACgAMLGw//LFMTjusv/yxTFA7rL/8sUxShw5TlpBSHVEcUpaSXBCcHBDWTV5VW1BdTRqTnc9Wh8iHbx1OHhkekljemVoMTlPYTBHVytTTmkvZEFHT0k9ZQAAAADCPgJgBRKtAQgQEqgBChxSTzI0M0d2NHd1MSswRlBUbTVPbEdKYVlmcGM9EiQ0Y2Y5M2M4YS02ZmE3LTRhZjMtOTU2Mi0yNmI1ZjZhOTY0ZDgYACACKAIw/5W4iuYyOOG7lsjSMkD8k7mK5jJKHFhHbVdTVjdHVit4S3hKazBlTkF2N2M0ZkgzUT1aHyId/Vp0ZWgzSlZmeWxFVDdab1pvSDZBTkMrTU9XRT1lvivuR8I+AmAFEqwBCAoSpwEKHHJhSVZiMFZvWU11MkEza3k1blhWWndIYjhvUT0SJGZkN2U4YjI1LWMzNzgtNDAzYy05Njc5LTlmNTY5Yjc4YmZhYxgAIAIoAjD+lbiK5jI4xMSNrcMxQPeTuYrmMkocNW5XTHMyaTQ0L3VPTExRNXpsbjFuNFdEV0Q0PVoeIhxBcmdWVzBiMHF5WG4zblMrZ3NCbkducU1iOVk9ZZs9hbbCPgJgBRKtAQgOEqgBChxGS1ZHQ1U5K3RBZGZOam1xWUVyR05zOW5VdEE9EiRjZGNjNjU3Zi0yNTVjLTRjYjUtODY4NC0yZWUzYWNiNDJjOTYYACACKAIw/ZW4iuYyOJ+7lsjSMkD7k7mK5jJKHFdGYXlVbk51U2pYalVVeXFTQzFyY202UjJXND1aHyId9zNNUUF5VldJQzY5UURNaVA0YlVxaGlzekVPQT1lRU1K0cI+AmAFEqwBCAsSpwEKHDFGMUFDakFFdEp0NHlXaDdDVmxxWWtjc0J6ST0SJDExNmY4Yjc3LWZhZmMtNDdkZC1iYzViLTA5NTI5NjFiZTMyMhgAIAIoAjCClriK5jI4lMSNrcMxQPiTuYrmMkocbVR6b1kzbktUczBadGgwQ3U4eTc3OWlCcklzPVoeIhx5RlIyWFhQT3A2LzlVOWFldGRsVjF1SHBiUE09Zf2cjErCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRlMjY2ODFiNy1iMzY5LTU1YTEtYjkwOC03ODE2YWI3ZWJhZTIYACAAKAAwg7qYmL0xOMi8mJi9MUDIvJiYvTFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkZTE1MzQwNzAtODdmYi01ODg2LWIyNWEtNGI5OWFiZTBlNTdhGAAgACgAMIe6mJi9MTiYvZiYvTFAmL2YmL0xShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
